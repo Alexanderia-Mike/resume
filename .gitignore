@@ -5,4 +5,6 @@ profile.png
 *.fls
 *.log
 *.pdf
+*.bbl
+*.blg
 *.run.xml
